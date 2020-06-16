@@ -1,0 +1,101 @@
+/* @import '~antd/dist/antd.css'; */
+
+.header {
+    padding-top: 10px;
+}
+
+.infor {
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Icon {
+    font-size: 90px;
+    margin: 15px 0 5px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700!important;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 21px;
+}
+
+img {
+    width: 100px;
+    height: 78px;
+    background-size: 200px 78px;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.menuHeader {
+    padding-top: 10px;
+    padding: 20px 0;
+    border-bottom: 1px solid #eaeaea;
+    background-color: #fff;
+}
+
+.solugan {
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.ant-carousel .slick-slide {
+    text-align: center;
+    height: 160px;
+    line-height: 160px;
+    overflow: hidden;
+}
+
+.ant-carousel .slick-dots-bottom li {
+    display: none;
+}
+
+.CarouselHeader img {
+    width: 100%;
+    height: 30vw;
+    z-index: 1;
+    position: relative;
+}
+
+
+/* .slidetime {
+    width: 1vw;
+    height: 5px;
+    background: #ff0000;
+    position: relative;
+    z-index: 2;
+    margin-top: -80px;
+} */
+
+
+/* .tp-bannertimer {
+    background-image: none;
+    background-color: rgba(232, 76, 61, .7);
+    z-index: 100;
+    height: 5px;
+    position: absolute;
+    bottom: 0;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0)
+}
+
+.tp-bottom {
+    animation: 5s in-out forwards;
+}
+
+@keyframes in-out {
+    0% {
+        width: 0;
+    }
+    100% {
+        width: 100%;
+    }
+} */

@@ -1,0 +1,63 @@
+/* @import '~antd/dist/antd.css'; */
+
+.lead {
+    font-size: 21px;
+    text-align: center!important;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+.menuWC .imgmenuWC {
+    width: 60vw;
+    height: 17vh;
+    margin: 20px;
+}
+
+.ant-tabs {
+    min-height: 300px;
+    background: #f2f2f2;
+}
+
+.ant-tabs>.ant-tabs-nav .ant-tabs-nav-wrap,
+.ant-tabs>div>.ant-tabs-nav .ant-tabs-nav-wrap {
+    box-shadow: none;
+    border-bottom-color: transparent;
+    background-color: #757575;
+    color: white;
+}
+
+
+/* .btnHome{
+    :global {
+        .ant-tabs-tab.ant-tabs-tab-active {
+                color: #cd3c2e;
+                background: #f2f2f2;
+        }
+    }
+} */
+
+.ant-tabs-tab.ant-tabs-tab-active {
+    color: #cd3c2e;
+    background: #f2f2f2;
+}
+
+.endWC {
+    background: #f2f2f2;
+    margin-top: 50px;
+    height: 130px;
+    margin-bottom: 10px;
+}
+
+.menuWC h3 {
+    text-align: center;
+}
+
+.textEndWC {
+    border-left: none;
+    display: block;
+    font-size: 16px;
+    position: relative;
+    margin: 50px 25px;
+    color: #595959!important;
+}

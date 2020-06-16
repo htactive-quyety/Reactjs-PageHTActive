@@ -1,0 +1,90 @@
+/* @import '~antd/dist/antd.css'; */
+
+.header {
+    margin-bottom: 20px;
+}
+
+.endAbout {
+    margin-bottom: 50px;
+}
+
+.about1 {
+    width: 200px;
+    height: auto;
+}
+
+.lead {
+    font-size: 21px;
+    text-align: center!important;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: transparent;
+    color: #cd3c2e;
+    border: 1px solid #e84c3d;
+    padding: 10px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    min-width: 160px;
+    text-align: center;
+    border-radius: 0;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+button:hover {
+    color: #fff!important;
+    background-color: #cd3c2e!important;
+    border-color: #cd3c2e!important;
+}
+
+.title {
+    font-size: 28px;
+}
+
+.htteamP {
+    font-size: 15px;
+    margin: 2px;
+}
+
+.ant-collapse>.ant-collapse-item>.ant-collapse-header {
+    background: #808080;
+}
+
+.ant-collapse-content>.ant-collapse-content-box>p,
+.home2nd>p {
+    font-size: 15px;
+}
+
+.ant-collapse>.ant-collapse-item>.ant-collapse-header:hover {
+    background: #333;
+}
+
+.backgroundEndAbout {
+    background-color: seagreen;
+    background-image: url("http://www.htactive.com/img/portfolio-3.webp");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #dadada;
+    border-top: 1px solid #dadada;
+}
+
+.inforEndAbout {
+    padding: 60px 25px;
+    text-align: center;
+}
+
+.inforEndAbout p {
+    font-size: 15px!important;
+    color: #333;
+}
+
+.buttonEndAbout Button {
+    margin: 70px 25px;
+    height: 50px;
+    text-align: center;
+}
